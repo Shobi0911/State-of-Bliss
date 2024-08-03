@@ -105,28 +105,10 @@ main {
     height: 600px;
     width: 100%;
     background-color: lightgreen;
-    background: url("../images/a-complete-guide-to-meditation-722x406_batcheditor_fotor.webp") no repeat center center/cover;
+    background: url("../images/a-complete-guide-to-meditation-722x406_batcheditor_fotor.webp") no-repeat center center/cover;
 }
 
 
-.card {
-    float:none;
-    width: 20%;
-    margin:0;
-    
-}
-
-.card a {
-    text-align: center;
-}
-
-img {
-    width: 100%;
-    height: 180px;
-}
-h2 {
-    text-align: center;
-}
 #social-networks {
     text-align: center;
     padding: 20px 0;
