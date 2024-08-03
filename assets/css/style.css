@@ -95,11 +95,19 @@ nav {
 
 
 main { 
-    background-color: lightblue;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 47px
 }
+
+/*Mindfulness section styles*/
+#mindfulness {
+    height: 600px;
+    width: 100%;
+    background-color: lightgreen;
+    background: url("../images/a-complete-guide-to-meditation-722x406_batcheditor_fotor.webp") no repeat center center/cover;
+}
+
 
 .card {
     float:none;
