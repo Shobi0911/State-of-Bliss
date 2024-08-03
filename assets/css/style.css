@@ -130,6 +130,74 @@ main {
 
 }
 
+/* introduction section styles */
+#Start-up {
+
+    width: 90%;
+    margin: auto 20px;
+}
+
+#Start-up > h2 {
+    font-size: 170%;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+#introduction {
+
+    line-height: 20px;
+    padding: 0 20px;
+    margin: 20px;
+}
+
+/* Why learn section style*/
+#learning {
+    width: 90%;
+    margin: auto 20px;
+}
+
+#learning > h2 {
+    font-size: 170%;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#Why {
+
+    line-height: 20px;
+    padding: 0 20px;
+    margin: 20px;
+}
+
+#guide {
+
+    width: 90%;
+    margin: auto 20px;
+}
+
+#guide > h2 {
+    font-size: 170%;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#how {
+    line-height: 20px;
+    padding: 0 20px;
+    margin: 20px;
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
+}
 
 #social-networks {
     text-align: center;
