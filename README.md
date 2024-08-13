@@ -34,7 +34,16 @@ State of Bliss is a site that provides the best introduction for newcomers that 
 
 - The W3C Markup Validator Services were used to validate this project to ensure there were no syntax errors in the project 
 - [W3C HTML Validator Results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2F8000-shobi0911-stateofbliss-ceiog54chr0.ws-eu115.gitpod.io%2F%23Start-up#textarea)
-- 
+- [W3C CSS Validator Results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2F8000-shobi0911-stateofbliss-ceiog54chr0.ws-eu115.gitpod.io%2F%23Start-up#textarea)
 
+## Accessbility 
+- I confirm that the colors and fonts chosen are easy to read and accessible by running it through the lighthouse in devtools
+
+## Credits 
+- The photo used in the main section was from this [page](https://www.everydayhealth.com/meditation/)
+- The icons in the footer was taken from [Font Awesome](https://fontawesome.com/)
+- The link I used to forward users to other [meditations videos](https://www.youtube.com/@GreatMeditation)
+- The link I used to direct users to [meditation posts](https://www.instagram.com/meditation_and_mindfulness/?hl=en)
+- I also have used the [Love Running](https://github.com/Code-Institute-Solutions/love-running-v3) project to help style my code!
 
 
